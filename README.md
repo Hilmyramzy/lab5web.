@@ -51,6 +51,16 @@ Pembuatan fungsi dan cara pemanggilannya
 ![Screenshot (239)](https://github.com/Hilmyramzy/lab5web./assets/115677769/450f336c-ba46-48cd-b68a-64e294b8b765)
 ![Screenshot (240)](https://github.com/Hilmyramzy/lab5web./assets/115677769/f34c19f4-b4d8-440b-8201-57c3265ff9c2)
 
+===========================FORM VALIDASI==================================
+
+
+![Screenshot (243)](https://github.com/Hilmyramzy/lab5web./assets/115677769/78917d83-8f3c-4533-acc1-ff03c9381d34)
+
+
+![Screenshot (244)](https://github.com/Hilmyramzy/lab5web./assets/115677769/fc5f6e26-7397-4601-8e23-8f1d3af81a2f)
+
+
+
 
 
 
